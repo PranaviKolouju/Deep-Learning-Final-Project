@@ -1,8 +1,8 @@
-# fMRI Image Reconstruction and Captioning
+# VISION: Visual Imaging Synthesis and Interpretation of Neural Operations
 
-## Project Overview
+## Introduction
 
-The human brain and it's activity can provide insight into how we perceive and process the visuals of our natural world. This project aims to utalize fMRI data to reconstruct high resolution fMRI images accompanied by rich text captions. Through the use of deep learning techniques, we intend to "explain" the connection between our neural and visual systems using these bi-modal representations. 
+The human brain is complex, and it's activity can provide key insight into how we perceive and process the visuals of our natural world. However, it is an impossible feat to know what visual cues the human brain is interpreting with only medical imaging data. In this project, we will utalize fMRI data to reconstruct high resolution images accompanied by rich text captions. By coupling a diffusion model with the CLIP image encoder, we will be able to produce these results. Through this approach, aim to build a tool that can help "explain" the connection between our neural and visual systems using bimodal representations.  
 
 ## Datasets
 
