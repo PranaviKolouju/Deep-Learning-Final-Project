@@ -1,4 +1,10 @@
-# VISION: Visual Imaging Synthesis and Interpretation of Neural Operations
+# CIRC - Cognitive Imaging Reconstruction and Captioning
+
+## Authors
+  - Mohamed Gallai
+  - Oam Khatavkar
+  - Pranavi Kolouju
+  - Ramez Masad
 
 ## Introduction
 
