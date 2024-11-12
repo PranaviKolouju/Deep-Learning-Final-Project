@@ -12,20 +12,15 @@ The human brain is complex, and it's activity can provide key insight into how w
 
 ## Datasets
 
-- **Natural Scenes Dataset (NSD)  - Reference Dataset**
-  - *Allen, E.J., St-Yves, G., Wu, Y., Breedlove, J.L., Prince, J.S., Dowdle, L.T., Nau, M., Caron, B., Pestilli, F., Charest, I., ... & Kay, K. (2021)*
-  - high-resolution fMRI data from 8 subjects viewing thousands of natural scenes over the course of 30-40 sessions.
-  - [Read here](https://naturalscenesdataset.org/)
-
-- **Deep Image Reconstruction**  
-  - *Shen, G., Horikawa, T., Majima, K., & Kamitani, Y. (2020)*
-  - fMRI scans of 3 subjects responding to various visual stimuli, including natural images, geometric shapes, alphabet letters, and imagination cues.
-  - [Read here](https://openneuro.org/datasets/ds001506/versions/1.3.1)
-
 - **Generic Object Decoding**  
   - *Horikawa, T., & Kamitani, Y. (2019)*
   - fMRI scans from 5 subjects viewing images across multiple categories from ImageNet, performing a one-back image repetition task.
   - [Read here](https://openneuro.org/datasets/ds001246/versions/1.2.1)
+
+- **BOLD5000**  
+  - *Chang, N., Pyles, J., Gupta, A., Tarr, M., & Aminoff, E. (2018)*
+  - fMRI scans from 4 subjects viewing 5,000 unique scene stimuli, performing a simple valence task.
+  - [Read here](https://openneuro.org/datasets/ds001499/versions/1.3.0)
 
 ### How Our Data Is Managed
 
