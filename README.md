@@ -27,6 +27,10 @@ The human brain is complex, and it's activity can provide key insight into how w
   - fMRI scans from 5 subjects viewing images across multiple categories from ImageNet, performing a one-back image repetition task.
   - [Read here](https://openneuro.org/datasets/ds001246/versions/1.2.1)
 
+### How Our Data Is Managed
+
+- **Our datasets are uploaded onto Microsoft Azure because they include large amounts of data. We were not able to upload the data on GitHub directly due to the limits on the upload size. The data is accessed publicly through Azure's Blob Service Endpoint URL.**
+
 ## Related Literature
 
 1. **Identifying Natural Images from Human Brain Activity**  
