@@ -64,7 +64,9 @@ Compatibility Note:
 If you encounter errors while installing the required packages, ensure that the versions of PyTorch and TorchVision are compatible with the CUDA version installed on your machine. Refer to the PyTorch compatibility guide for assistance.
 
 
+
 2. Download Data and Checkpoints
+   
 **Data and Checkpoints Availability:**
 
 Due to size and licensing limitations, the necessary checkpoints and data are not included in this repository. You can obtain them by contacting the owners of the original repository: [mind-vis](https://github.com/zjc062/mind-vis/tree/main).
@@ -73,25 +75,32 @@ Due to size and licensing limitations, the necessary checkpoints and data are no
 
 Download the test datasets for the subjects (e.g., BOLD5000 and GOD) and place them in the following directories:
 For BOLD5000:
-'''
+
+```
 mind-vis\data\BOLD5000\BOLD5000_GLMsingle_ROI_betas\py
-'''
+```
+
 For GOD:
-'''
+
+```
 mind-vis\data\Kamitani\npz
-'''
+```
 
 **Checkpoints:**
 
 Download the checkpoints for Masked Signal Modeling and the LDM (Latent Diffusion Model) for each subject, and place them in the following directories:
 For BOLD5000:
-'''
+
+```
 mind-vis\pretrains\BOLD5000
-'''
+```
+
 For GOD:
-'''
+
+```
 mind-vis\pretrains\GOD
-'''
+```
+
 Running Inference:
 
 Execute the inference.py script. This script will:
@@ -100,13 +109,14 @@ Create a grid containing ground truth images and reconstructed images.
 Save the ground truth images and reconstructed images individually in a folder named after the subject.
 Example command:
 
-'''
+```
 python inference.py
-'''
+```
 
 Note:
 
 By default, the sampling size is set to 1. You can modify this value by editing the following file:
-'''
+
+```
 mind-vis\code\dc_ldm\ldm_for_fmri.py
-'''
+```
