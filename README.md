@@ -54,8 +54,10 @@ The human brain is complex, and it's activity can provide key insight into how w
 
 Use the provided env.yaml file to set up the environment:
 
-(```)conda env create -f env.yaml(```)
-(```)conda activate mind-vis(```)
+```
+conda env create -f env.yaml
+conda activate mind-vis
+```
 
 Compatibility Note:
 
