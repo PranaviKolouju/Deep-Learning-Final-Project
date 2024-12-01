@@ -120,3 +120,10 @@ By default, the sampling size is set to 1. You can modify this value by editing 
 ```
 mind-vis\code\dc_ldm\ldm_for_fmri.py
 ```
+
+
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+
+**Acknowledgments**
+Special thanks to the [mind-vis](https://github.com/zjc062/mind-vis/tree/main) team and the open-source community for their invaluable contributions and support.
