@@ -49,3 +49,15 @@ The human brain is complex, and it's activity can provide key insight into how w
    - [Read here](https://arxiv.org/abs/2305.10135)  
 
 
+**Environment Setup**
+1. Create and activate the Conda environment:
+
+Use the provided env.yaml file to set up the environment:
+
+<pre> ```
+conda env create -f env.yaml
+conda activate mind-vis
+  ``` </pre>
+Compatibility Note:
+
+If you encounter errors while installing the required packages, ensure that the versions of PyTorch and TorchVision are compatible with the CUDA version installed on your machine. Refer to the PyTorch compatibility guide for assistance.
