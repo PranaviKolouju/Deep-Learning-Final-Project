@@ -1,52 +1,202 @@
 {
-    "49": "a wall on the side of a building",
-    "48": "a large computer monitor",
-    "13": "the head of a koala",
-    "12": "a pile of brown leaves",
-    "10": "an animal on the ground",
-    "38": "this is a machine",
-    "39": "this is a machine",
-    "11": "a dragonfly on the ground",
-    "29": "a black baby stroller",
-    "15": "the head of a sheep",
-    "9": "the face of a baby elephant",
-    "8": "this is a bird",
-    "14": "two birds in the water",
-    "28": "a piece of paper with a picture of a cat on it.",
-    "16": "the plane is on the water",
-    "17": "the machine is on a stand",
-    "26": "the sink is white",
-    "32": "a wall on the side of a building",
-    "6": "a slug on the ground",
-    "7": "the bird is black",
-    "33": "the sky is overcast",
-    "27": "this is a bird",
-    "31": "the sign is made of stone",
-    "25": "the bird is looking for food",
-    "19": "the clock is made of metal",
-    "5": "two birds in the water",
-    "4": "a bird standing in the grass",
-    "18": "a brown wooden table",
-    "24": "the engine is red",
-    "30": "the machine is white",
-    "34": "the tray is silver",
-    "20": "a bike parked on the sidewalk",
-    "1": "a mushroom on a plate",
-    "21": "a cloudy blue sky",
-    "35": "this is a glass lamp in the museum of the art of & amp ; quot ; gaudi & amp ; quot ; in barcelona, spain.",
-    "23": "this is a microwave",
-    "37": "this is a picture of a black pipe.",
-    "3": "a male critter with his mouth open and a female in the foreground.",
-    "2": "the head of a pig",
-    "36": "a clear blue sky",
-    "22": "a body of water",
-    "45": "this is a machine",
-    "50": "a white counter top",
-    "44": "this is a horse",
-    "46": "a small package of duct tape.",
-    "47": "found on the wall of a house in the middle of nowhere..........................",
-    "43": "this is a motorbike",
-    "42": "the fridge is white",
-    "40": "a pair of pliers",
-    "41": "this is a glass ashtray"
+    "49": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.12538182735443115
+    },
+    "48": {
+        "caption": "a large computer monitor",
+        "similarity": 0.27747002243995667
+    },
+    "13": {
+        "caption": "the head of a koala",
+        "similarity": 0.14878080785274506
+    },
+    "12": {
+        "caption": "a pile of brown leaves",
+        "similarity": 0.22393178939819336
+    },
+    "10": {
+        "caption": "an animal on the ground",
+        "similarity": 0.2150678187608719
+    },
+    "38": {
+        "caption": "this is a machine",
+        "similarity": 0.20990990102291107
+    },
+    "39": {
+        "caption": "this is a machine",
+        "similarity": 0.19430619478225708
+    },
+    "11": {
+        "caption": "a dragonfly on the ground",
+        "similarity": 0.2529960572719574
+    },
+    "29": {
+        "caption": "a black baby stroller",
+        "similarity": 0.18591701984405518
+    },
+    "15": {
+        "caption": "the head of a sheep",
+        "similarity": 0.24875587224960327
+    },
+    "9": {
+        "caption": "the face of a baby elephant",
+        "similarity": 0.15132847428321838
+    },
+    "8": {
+        "caption": "this is a bird",
+        "similarity": 0.22307522594928741
+    },
+    "14": {
+        "caption": "two birds in the water",
+        "similarity": 0.16676320135593414
+    },
+    "28": {
+        "caption": "a piece of paper with a picture of a cat on it.",
+        "similarity": 0.12564417719841003
+    },
+    "16": {
+        "caption": "the plane is on the water",
+        "similarity": 0.23632778227329254
+    },
+    "17": {
+        "caption": "the machine is on a stand",
+        "similarity": 0.23272037506103516
+    },
+    "26": {
+        "caption": "the sink is white",
+        "similarity": 0.18485566973686218
+    },
+    "32": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.09946471452713013
+    },
+    "6": {
+        "caption": "a slug on the ground",
+        "similarity": 0.2100890576839447
+    },
+    "7": {
+        "caption": "the bird is black",
+        "similarity": 0.21742168068885803
+    },
+    "33": {
+        "caption": "the sky is overcast",
+        "similarity": 0.1593272089958191
+    },
+    "27": {
+        "caption": "this is a bird",
+        "similarity": 0.1898307353258133
+    },
+    "31": {
+        "caption": "the sign is made of stone",
+        "similarity": 0.23957446217536926
+    },
+    "25": {
+        "caption": "the bird is looking for food",
+        "similarity": 0.19271905720233917
+    },
+    "19": {
+        "caption": "the clock is made of metal",
+        "similarity": 0.17116232216358185
+    },
+    "5": {
+        "caption": "two birds in the water",
+        "similarity": 0.261172890663147
+    },
+    "4": {
+        "caption": "a bird standing in the grass",
+        "similarity": 0.26920732855796814
+    },
+    "18": {
+        "caption": "a brown wooden table",
+        "similarity": 0.17682647705078125
+    },
+    "24": {
+        "caption": "the engine is red",
+        "similarity": 0.20951074361801147
+    },
+    "30": {
+        "caption": "the machine is white",
+        "similarity": 0.1976318508386612
+    },
+    "34": {
+        "caption": "the tray is silver",
+        "similarity": 0.20665396749973297
+    },
+    "20": {
+        "caption": "a bike parked on the sidewalk",
+        "similarity": 0.133819580078125
+    },
+    "1": {
+        "caption": "a mushroom on a plate",
+        "similarity": 0.1676855981349945
+    },
+    "21": {
+        "caption": "a cloudy blue sky",
+        "similarity": 0.1917259693145752
+    },
+    "35": {
+        "caption": "this is a glass lamp in the museum of the art of & amp ; quot ; gaudi & amp ; quot ; in barcelona, spain.",
+        "similarity": 0.1898965686559677
+    },
+    "23": {
+        "caption": "this is a microwave",
+        "similarity": 0.18663214147090912
+    },
+    "37": {
+        "caption": "this is a picture of a black pipe.",
+        "similarity": 0.2084890753030777
+    },
+    "3": {
+        "caption": "a male critter with his mouth open and a female in the foreground.",
+        "similarity": 0.24230411648750305
+    },
+    "2": {
+        "caption": "the head of a pig",
+        "similarity": 0.19949910044670105
+    },
+    "36": {
+        "caption": "a clear blue sky",
+        "similarity": 0.18334384262561798
+    },
+    "22": {
+        "caption": "a body of water",
+        "similarity": 0.21026718616485596
+    },
+    "45": {
+        "caption": "this is a machine",
+        "similarity": 0.1914340704679489
+    },
+    "50": {
+        "caption": "a white counter top",
+        "similarity": 0.18876226246356964
+    },
+    "44": {
+        "caption": "this is a horse",
+        "similarity": 0.19617082178592682
+    },
+    "46": {
+        "caption": "a small package of duct tape.",
+        "similarity": 0.18076691031455994
+    },
+    "47": {
+        "caption": "found on the wall of a house in the middle of nowhere..........................",
+        "similarity": 0.15937046706676483
+    },
+    "43": {
+        "caption": "this is a motorbike",
+        "similarity": 0.24233122169971466
+    },
+    "42": {
+        "caption": "the fridge is white",
+        "similarity": 0.2482847273349762
+    },
+    "40": {
+        "caption": "a pair of pliers",
+        "similarity": 0.2542436122894287
+    },
+    "41": {
+        "caption": "this is a glass ashtray",
+        "similarity": 0.1751013696193695
+    }
 }

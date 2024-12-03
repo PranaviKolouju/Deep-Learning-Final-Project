@@ -1,115 +1,454 @@
 {
-    "64": "a wall on the side of a building",
-    "70": "a gecko on the ground",
-    "58": "this little guy was sitting in the grass looking for something to eat.",
-    "59": "a lizard on the ground",
-    "71": "a scene during the day time",
-    "65": "a wall on the side of a building",
-    "73": "a cat with a hat on it's head",
-    "67": "the dog is standing on dirt",
-    "98": "people are enjoying the outdoors",
-    "99": "the floor is made of wood",
-    "66": "the men are wearing wetsuits",
-    "72": "the table is made of wood",
-    "76": "the bus is yellow and red",
-    "62": "a wall on the side of a building",
-    "89": "a wall on the side of a building",
-    "88": "a boy on a skateboard",
-    "63": "the handle of the knife",
-    "77": "a scene during the day time",
-    "49": "this is a motorbike",
-    "61": "a wall on the side of a building",
-    "75": "a doughnut on a plate",
-    "74": "the fish is gray and white",
-    "60": "a man wearing a grey shirt",
-    "48": "the head of a ram",
-    "13": "this is a train",
-    "12": "a wall on the side of a building",
-    "10": "a group of people in a room",
-    "38": "a scene during the day time",
-    "39": "man wearing a blue helmet",
-    "11": "the food is on a tray",
-    "29": "a wall on the side of a building",
-    "15": "man wearing a red shirt",
-    "9": "people are enjoying the outdoors",
-    "8": "a dog eating a fish",
-    "14": "two animals walking on a dirt path",
-    "28": "a person on the ground",
-    "109": "a scene during the day time",
-    "16": "a wall on the side of a building",
-    "17": "the giraffe is brown and white",
-    "108": "the table is wooden",
-    "26": "the plant is green",
-    "32": "a wall on the side of a building",
-    "111": "a wall on the side of a building",
-    "105": "a wall on the side of a building",
-    "6": "a large white bathtub",
-    "7": "a window on a building",
-    "104": "a wall on the side of a building",
-    "110": "a wall on the side of a building",
-    "33": "a wall on the side of a building",
-    "27": "the hood of a car",
-    "31": "an animal in a field.",
-    "25": "a bird on a post",
-    "106": "a wall on the side of a building",
-    "112": "a wall on the side of a building",
-    "19": "a large body of water",
-    "5": "a wall on the side of a building",
-    "4": "the dog is laying down",
-    "113": "a wall on the side of a building",
-    "18": "red object in the air",
-    "107": "a wall on the side of a building",
-    "24": "food on the plate",
-    "30": "people are enjoying the outdoors",
-    "103": "a wall on the side of a building",
-    "34": "food in a bowl",
-    "20": "a carpet on the floor",
-    "1": "the bird is black",
-    "21": "man wearing red shirt",
-    "35": "a piece of food.",
-    "102": "the road is tarmacked",
-    "100": "a scene during the day time",
-    "23": "a wall on the side of a building",
-    "37": "the water is choppy",
-    "3": "a man on a motorcycle",
-    "2": "the woman is wearing a long sleeved shirt",
-    "36": "a building in a city",
-    "22": "this is a wild animal",
-    "101": "a wall on the side of a building",
-    "45": "train on the tracks",
-    "51": "a man holding a bird",
-    "79": "the man is holding a bat",
-    "86": "a chair that you sit in",
-    "92": "the trolley is orange",
-    "93": "a wall on the side of a building",
-    "87": "the animal is furry",
-    "78": "this gecko was found on the side of the road in the mountains of north carolina.",
-    "50": "food in a wrapper",
-    "44": "this is a bear",
-    "52": "the bowl is black",
-    "46": "the cup is made of glass",
-    "91": "the fridge is silver",
-    "85": "food in a bowl",
-    "84": "a statue of a fish in the middle of a sidewalk in the middle of a park.",
-    "90": "a white ceramic jug",
-    "47": "this photo was taken in the state of massachusetts",
-    "53": "this is a picture of food",
-    "57": "a person is sitting down",
-    "43": "two cows standing next to each other",
-    "94": "the table is made of wood",
-    "80": "the head of a goat",
-    "81": "food on the plate",
-    "95": "the ceiling is made of stone",
-    "42": "a white and brown horse",
-    "56": "a train car on a train track",
-    "68": "the ground is covered in dirt",
-    "40": "a man wearing a black hoodie",
-    "54": "the sweater is black",
-    "83": "the car is green and white",
-    "97": "a wall on the side of a building",
-    "96": "a wall on the side of a building",
-    "82": "the table is made of wood",
-    "55": "a person is standing up",
-    "41": "the plate is white",
-    "69": "the nose of a dog"
+    "64": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.1437910944223404
+    },
+    "70": {
+        "caption": "a gecko on the ground",
+        "similarity": 0.18726587295532227
+    },
+    "58": {
+        "caption": "this little guy was sitting in the grass looking for something to eat.",
+        "similarity": 0.22535307705402374
+    },
+    "59": {
+        "caption": "a lizard on the ground",
+        "similarity": 0.15633472800254822
+    },
+    "71": {
+        "caption": "a scene during the day time",
+        "similarity": 0.2341393679380417
+    },
+    "65": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.16569404304027557
+    },
+    "73": {
+        "caption": "a cat with a hat on it's head",
+        "similarity": 0.17957989871501923
+    },
+    "67": {
+        "caption": "the dog is standing on dirt",
+        "similarity": 0.24612127244472504
+    },
+    "98": {
+        "caption": "people are enjoying the outdoors",
+        "similarity": 0.2255556732416153
+    },
+    "99": {
+        "caption": "the floor is made of wood",
+        "similarity": 0.20980307459831238
+    },
+    "66": {
+        "caption": "the men are wearing wetsuits",
+        "similarity": 0.20746438205242157
+    },
+    "72": {
+        "caption": "the table is made of wood",
+        "similarity": 0.1650291383266449
+    },
+    "76": {
+        "caption": "the bus is yellow and red",
+        "similarity": 0.21789689362049103
+    },
+    "62": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.12102590501308441
+    },
+    "89": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.16624152660369873
+    },
+    "88": {
+        "caption": "a boy on a skateboard",
+        "similarity": 0.22217220067977905
+    },
+    "63": {
+        "caption": "the handle of the knife",
+        "similarity": 0.23279649019241333
+    },
+    "77": {
+        "caption": "a scene during the day time",
+        "similarity": 0.2337011992931366
+    },
+    "49": {
+        "caption": "this is a motorbike",
+        "similarity": 0.18796001374721527
+    },
+    "61": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.18275229632854462
+    },
+    "75": {
+        "caption": "a doughnut on a plate",
+        "similarity": 0.21074452996253967
+    },
+    "74": {
+        "caption": "the fish is gray and white",
+        "similarity": 0.1559101790189743
+    },
+    "60": {
+        "caption": "a man wearing a grey shirt",
+        "similarity": 0.19292594492435455
+    },
+    "48": {
+        "caption": "the head of a ram",
+        "similarity": 0.23096410930156708
+    },
+    "13": {
+        "caption": "this is a train",
+        "similarity": 0.2627812623977661
+    },
+    "12": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.12425563484430313
+    },
+    "10": {
+        "caption": "a group of people in a room",
+        "similarity": 0.23358339071273804
+    },
+    "38": {
+        "caption": "a scene during the day time",
+        "similarity": 0.20168308913707733
+    },
+    "39": {
+        "caption": "man wearing a blue helmet",
+        "similarity": 0.22038859128952026
+    },
+    "11": {
+        "caption": "the food is on a tray",
+        "similarity": 0.24937725067138672
+    },
+    "29": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.1546470820903778
+    },
+    "15": {
+        "caption": "man wearing a red shirt",
+        "similarity": 0.22097712755203247
+    },
+    "9": {
+        "caption": "people are enjoying the outdoors",
+        "similarity": 0.19935350120067596
+    },
+    "8": {
+        "caption": "a dog eating a fish",
+        "similarity": 0.18065476417541504
+    },
+    "14": {
+        "caption": "two animals walking on a dirt path",
+        "similarity": 0.20984475314617157
+    },
+    "28": {
+        "caption": "a person on the ground",
+        "similarity": 0.1836722046136856
+    },
+    "109": {
+        "caption": "a scene during the day time",
+        "similarity": 0.221974179148674
+    },
+    "16": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.17805644869804382
+    },
+    "17": {
+        "caption": "the giraffe is brown and white",
+        "similarity": 0.31230640411376953
+    },
+    "108": {
+        "caption": "the table is wooden",
+        "similarity": 0.19715429842472076
+    },
+    "26": {
+        "caption": "the plant is green",
+        "similarity": 0.18185937404632568
+    },
+    "32": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.20629048347473145
+    },
+    "111": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.12755456566810608
+    },
+    "105": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.14065296947956085
+    },
+    "6": {
+        "caption": "a large white bathtub",
+        "similarity": 0.2854418158531189
+    },
+    "7": {
+        "caption": "a window on a building",
+        "similarity": 0.17770476639270782
+    },
+    "104": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.1472388505935669
+    },
+    "110": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.16017115116119385
+    },
+    "33": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.20442910492420197
+    },
+    "27": {
+        "caption": "the hood of a car",
+        "similarity": 0.1645851582288742
+    },
+    "31": {
+        "caption": "an animal in a field.",
+        "similarity": 0.20568373799324036
+    },
+    "25": {
+        "caption": "a bird on a post",
+        "similarity": 0.12760049104690552
+    },
+    "106": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.15603965520858765
+    },
+    "112": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.1589885652065277
+    },
+    "19": {
+        "caption": "a large body of water",
+        "similarity": 0.22616538405418396
+    },
+    "5": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.16578850150108337
+    },
+    "4": {
+        "caption": "the dog is laying down",
+        "similarity": 0.19222697615623474
+    },
+    "113": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.13651953637599945
+    },
+    "18": {
+        "caption": "red object in the air",
+        "similarity": 0.22424109280109406
+    },
+    "107": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.12246271222829819
+    },
+    "24": {
+        "caption": "food on the plate",
+        "similarity": 0.22420623898506165
+    },
+    "30": {
+        "caption": "people are enjoying the outdoors",
+        "similarity": 0.2366151362657547
+    },
+    "103": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.10875775665044785
+    },
+    "34": {
+        "caption": "food in a bowl",
+        "similarity": 0.2682006061077118
+    },
+    "20": {
+        "caption": "a carpet on the floor",
+        "similarity": 0.1680290848016739
+    },
+    "1": {
+        "caption": "the bird is black",
+        "similarity": 0.18721555173397064
+    },
+    "21": {
+        "caption": "man wearing red shirt",
+        "similarity": 0.19226370751857758
+    },
+    "35": {
+        "caption": "a piece of food.",
+        "similarity": 0.21669365465641022
+    },
+    "102": {
+        "caption": "the road is tarmacked",
+        "similarity": 0.23516425490379333
+    },
+    "100": {
+        "caption": "a scene during the day time",
+        "similarity": 0.21189898252487183
+    },
+    "23": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.1188504695892334
+    },
+    "37": {
+        "caption": "the water is choppy",
+        "similarity": 0.22948437929153442
+    },
+    "3": {
+        "caption": "a man on a motorcycle",
+        "similarity": 0.2205972671508789
+    },
+    "2": {
+        "caption": "the woman is wearing a long sleeved shirt",
+        "similarity": 0.17511413991451263
+    },
+    "36": {
+        "caption": "a building in a city",
+        "similarity": 0.24096718430519104
+    },
+    "22": {
+        "caption": "this is a wild animal",
+        "similarity": 0.2117822766304016
+    },
+    "101": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.14542169868946075
+    },
+    "45": {
+        "caption": "train on the tracks",
+        "similarity": 0.19354186952114105
+    },
+    "51": {
+        "caption": "a man holding a bird",
+        "similarity": 0.2013336420059204
+    },
+    "79": {
+        "caption": "the man is holding a bat",
+        "similarity": 0.158650204539299
+    },
+    "86": {
+        "caption": "a chair that you sit in",
+        "similarity": 0.21769532561302185
+    },
+    "92": {
+        "caption": "the trolley is orange",
+        "similarity": 0.17688582837581635
+    },
+    "93": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.16029414534568787
+    },
+    "87": {
+        "caption": "the animal is furry",
+        "similarity": 0.22741758823394775
+    },
+    "78": {
+        "caption": "this gecko was found on the side of the road in the mountains of north carolina.",
+        "similarity": 0.20864689350128174
+    },
+    "50": {
+        "caption": "food in a wrapper",
+        "similarity": 0.17078900337219238
+    },
+    "44": {
+        "caption": "this is a bear",
+        "similarity": 0.16059011220932007
+    },
+    "52": {
+        "caption": "the bowl is black",
+        "similarity": 0.17619486153125763
+    },
+    "46": {
+        "caption": "the cup is made of glass",
+        "similarity": 0.18774467706680298
+    },
+    "91": {
+        "caption": "the fridge is silver",
+        "similarity": 0.1447649747133255
+    },
+    "85": {
+        "caption": "food in a bowl",
+        "similarity": 0.1696956753730774
+    },
+    "84": {
+        "caption": "a statue of a fish in the middle of a sidewalk in the middle of a park.",
+        "similarity": 0.14044082164764404
+    },
+    "90": {
+        "caption": "a white ceramic jug",
+        "similarity": 0.15504257380962372
+    },
+    "47": {
+        "caption": "this photo was taken in the state of massachusetts",
+        "similarity": 0.15460319817066193
+    },
+    "53": {
+        "caption": "this is a picture of food",
+        "similarity": 0.2281859815120697
+    },
+    "57": {
+        "caption": "a person is sitting down",
+        "similarity": 0.1759401559829712
+    },
+    "43": {
+        "caption": "two cows standing next to each other",
+        "similarity": 0.2309831976890564
+    },
+    "94": {
+        "caption": "the table is made of wood",
+        "similarity": 0.20239746570587158
+    },
+    "80": {
+        "caption": "the head of a goat",
+        "similarity": 0.19051195681095123
+    },
+    "81": {
+        "caption": "food on the plate",
+        "similarity": 0.2065695971250534
+    },
+    "95": {
+        "caption": "the ceiling is made of stone",
+        "similarity": 0.18918034434318542
+    },
+    "42": {
+        "caption": "a white and brown horse",
+        "similarity": 0.23491257429122925
+    },
+    "56": {
+        "caption": "a train car on a train track",
+        "similarity": 0.26048991084098816
+    },
+    "68": {
+        "caption": "the ground is covered in dirt",
+        "similarity": 0.20926065742969513
+    },
+    "40": {
+        "caption": "a man wearing a black hoodie",
+        "similarity": 0.1636236160993576
+    },
+    "54": {
+        "caption": "the sweater is black",
+        "similarity": 0.19209909439086914
+    },
+    "83": {
+        "caption": "the car is green and white",
+        "similarity": 0.17777517437934875
+    },
+    "97": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.17407216131687164
+    },
+    "96": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.17663085460662842
+    },
+    "82": {
+        "caption": "the table is made of wood",
+        "similarity": 0.158129021525383
+    },
+    "55": {
+        "caption": "a person is standing up",
+        "similarity": 0.22192254662513733
+    },
+    "41": {
+        "caption": "the plate is white",
+        "similarity": 0.21146124601364136
+    },
+    "69": {
+        "caption": "the nose of a dog",
+        "similarity": 0.21319013833999634
+    }
 }

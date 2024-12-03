@@ -1,52 +1,202 @@
 {
-    "49": "the monitor is on",
-    "48": "the window is closed",
-    "13": "two hippos in the water",
-    "12": "a hand holding a white towel",
-    "10": "this is a piece of metal",
-    "38": "the tv is turned on",
-    "39": "the sewing machine is designed to look like a sewing machine.",
-    "11": "the man is wearing blue jeans",
-    "29": "this is a steering wheel",
-    "15": "this is a gun",
-    "9": "this is a hippo",
-    "8": "people walking on the sand",
-    "14": "the table is made of metal",
-    "28": "3d model of a wrist watch",
-    "16": "the water is blue.",
-    "17": "this is a piece of art.",
-    "26": "this is a gun",
-    "32": "a wall on the side of a building",
-    "6": "a red toy on a white surface",
-    "7": "this is a gun",
-    "33": "this is a sewing machine",
-    "27": "this is a machine",
-    "31": "a wall on the side of a building",
-    "25": "this is a picture of a machine",
-    "19": "this is a work of art in progress..............................",
-    "5": "the dog is brown and white",
-    "4": "a person is standing up",
-    "18": "this is a 3d model of the video camera.",
-    "24": "a pile of metal tools",
-    "30": "the machine is white",
-    "34": "a pair of flip flops",
-    "20": "the man is wearing a blue shirt",
-    "1": "the background is white.",
-    "21": "this is a picture of a machine that was taken out of the window in the living room.",
-    "35": "a pair of flip flops",
-    "23": "a chair that you sit in",
-    "37": "this is a machine",
-    "3": "the handle of the gun",
-    "2": "this snake was found on the side of the road in the middle of nowhere.",
-    "36": "a wall on the side of a building",
-    "22": "a wall on the side of a building",
-    "45": "the man is wearing a blue shirt",
-    "50": "this is what happens when you have a water bottle in your hands.",
-    "44": "a black strap",
-    "46": "a white hair dryer",
-    "47": "a toy gun on the ground",
-    "43": "a person is standing up",
-    "42": "the desk is white",
-    "40": "this is the door to the car in the back of the car.........................",
-    "41": "the lamp is made of metal"
+    "49": {
+        "caption": "the monitor is on",
+        "similarity": 0.1781884878873825
+    },
+    "48": {
+        "caption": "the window is closed",
+        "similarity": 0.1933925449848175
+    },
+    "13": {
+        "caption": "two hippos in the water",
+        "similarity": 0.13089360296726227
+    },
+    "12": {
+        "caption": "a hand holding a white towel",
+        "similarity": 0.18366676568984985
+    },
+    "10": {
+        "caption": "this is a piece of metal",
+        "similarity": 0.20820100605487823
+    },
+    "38": {
+        "caption": "the tv is turned on",
+        "similarity": 0.19736646115779877
+    },
+    "39": {
+        "caption": "the sewing machine is designed to look like a sewing machine.",
+        "similarity": 0.15407557785511017
+    },
+    "11": {
+        "caption": "the man is wearing blue jeans",
+        "similarity": 0.16714750230312347
+    },
+    "29": {
+        "caption": "this is a steering wheel",
+        "similarity": 0.1945233792066574
+    },
+    "15": {
+        "caption": "this is a gun",
+        "similarity": 0.2099161297082901
+    },
+    "9": {
+        "caption": "this is a hippo",
+        "similarity": 0.20529283583164215
+    },
+    "8": {
+        "caption": "people walking on the sand",
+        "similarity": 0.1779714822769165
+    },
+    "14": {
+        "caption": "the table is made of metal",
+        "similarity": 0.1878352165222168
+    },
+    "28": {
+        "caption": "3d model of a wrist watch",
+        "similarity": 0.13872382044792175
+    },
+    "16": {
+        "caption": "the water is blue.",
+        "similarity": 0.15228122472763062
+    },
+    "17": {
+        "caption": "this is a piece of art.",
+        "similarity": 0.2067180573940277
+    },
+    "26": {
+        "caption": "this is a gun",
+        "similarity": 0.21846547722816467
+    },
+    "32": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.09946471452713013
+    },
+    "6": {
+        "caption": "a red toy on a white surface",
+        "similarity": 0.21425123512744904
+    },
+    "7": {
+        "caption": "this is a gun",
+        "similarity": 0.22428138554096222
+    },
+    "33": {
+        "caption": "this is a sewing machine",
+        "similarity": 0.19799034297466278
+    },
+    "27": {
+        "caption": "this is a machine",
+        "similarity": 0.1954989731311798
+    },
+    "31": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.1581607311964035
+    },
+    "25": {
+        "caption": "this is a picture of a machine",
+        "similarity": 0.21816547214984894
+    },
+    "19": {
+        "caption": "this is a work of art in progress..............................",
+        "similarity": 0.20343704521656036
+    },
+    "5": {
+        "caption": "the dog is brown and white",
+        "similarity": 0.22047288715839386
+    },
+    "4": {
+        "caption": "a person is standing up",
+        "similarity": 0.21808528900146484
+    },
+    "18": {
+        "caption": "this is a 3d model of the video camera.",
+        "similarity": 0.19026970863342285
+    },
+    "24": {
+        "caption": "a pile of metal tools",
+        "similarity": 0.1770051121711731
+    },
+    "30": {
+        "caption": "the machine is white",
+        "similarity": 0.1976318508386612
+    },
+    "34": {
+        "caption": "a pair of flip flops",
+        "similarity": 0.17475879192352295
+    },
+    "20": {
+        "caption": "the man is wearing a blue shirt",
+        "similarity": 0.13603992760181427
+    },
+    "1": {
+        "caption": "the background is white.",
+        "similarity": 0.18563465774059296
+    },
+    "21": {
+        "caption": "this is a picture of a machine that was taken out of the window in the living room.",
+        "similarity": 0.22395756840705872
+    },
+    "35": {
+        "caption": "a pair of flip flops",
+        "similarity": 0.17326924204826355
+    },
+    "23": {
+        "caption": "a chair that you sit in",
+        "similarity": 0.18300502002239227
+    },
+    "37": {
+        "caption": "this is a machine",
+        "similarity": 0.21917445957660675
+    },
+    "3": {
+        "caption": "the handle of the gun",
+        "similarity": 0.18099470436573029
+    },
+    "2": {
+        "caption": "this snake was found on the side of the road in the middle of nowhere.",
+        "similarity": 0.1729985922574997
+    },
+    "36": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.16918037831783295
+    },
+    "22": {
+        "caption": "a wall on the side of a building",
+        "similarity": 0.11327219009399414
+    },
+    "45": {
+        "caption": "the man is wearing a blue shirt",
+        "similarity": 0.18648363649845123
+    },
+    "50": {
+        "caption": "this is what happens when you have a water bottle in your hands.",
+        "similarity": 0.15977783501148224
+    },
+    "44": {
+        "caption": "a black strap",
+        "similarity": 0.22844083607196808
+    },
+    "46": {
+        "caption": "a white hair dryer",
+        "similarity": 0.14066320657730103
+    },
+    "47": {
+        "caption": "a toy gun on the ground",
+        "similarity": 0.19535966217517853
+    },
+    "43": {
+        "caption": "a person is standing up",
+        "similarity": 0.17043064534664154
+    },
+    "42": {
+        "caption": "the desk is white",
+        "similarity": 0.2124764770269394
+    },
+    "40": {
+        "caption": "this is the door to the car in the back of the car.........................",
+        "similarity": 0.1925792694091797
+    },
+    "41": {
+        "caption": "the lamp is made of metal",
+        "similarity": 0.18857011198997498
+    }
 }
